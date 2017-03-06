@@ -2,7 +2,7 @@
 
 > A dark theme for [Wox](https://github.com/qianlifeng/Wox).
 
-![Screenshot](https://cloud.githubusercontent.com/assets/119919/10037111/8355a67c-617f-11e5-9a8c-99a955e4eddf.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/wox.png)
 
 ## Install
 
