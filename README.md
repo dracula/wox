@@ -1,6 +1,6 @@
-# Dracula for [Wox](https://github.com/qianlifeng/Wox)
+# Dracula for [Wox](https://github.com/Wox-launcher/Wox)
 
-> A dark theme for [Wox](https://github.com/qianlifeng/Wox).
+> A dark theme for [Wox](https://github.com/Wox-launcher/Wox).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/wox.png)
 
