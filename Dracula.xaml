@@ -24,7 +24,7 @@
     <Style x:Key="ItemSubTitleSelectedStyle" BasedOn="{StaticResource BaseItemSubTitleSelectedStyle}" TargetType="{x:Type TextBlock}">
         <Setter Property="Foreground" Value="#bd93f9" />
     </Style>
-    <Color x:Key="ItemSelectedBackgroundColor">#44475A</Color>
+    <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#44475A</SolidColorBrush>
     <Style x:Key="ThumbStyle" BasedOn="{StaticResource BaseThumbStyle}" TargetType="{x:Type Thumb}">
       <Setter Property="Template">
           <Setter.Value>
